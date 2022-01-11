@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <h1 align="center">Hi 👋, I'm Mihir Patel</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
@@ -32,4 +33,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihir-fluxbyte&show_icons=true&locale=en" alt="mihir-fluxbyte" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-fluxbyte&" alt="mihir-fluxbyte" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihir-fluxbyte&" alt="mihir-fluxbyte" /></p>-->
