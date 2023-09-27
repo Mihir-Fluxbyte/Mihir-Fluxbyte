@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Patel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **Angular, Node.js, Express, React, Nest, Next, C#, .Net Web Api, MSSQL**
 
